@@ -33,6 +33,7 @@ Computer Graphics assets.
 * [Blend Swap](https://www.blendswap.com)
 * [Computer Graphics: Project](http://graphics.cs.kuleuven.be/courses/H07Z5a/modellen.html)
 * [Computer Graphics: Project (Old)](http://graphics.cs.kuleuven.be/courses/H07Z5a/oudemodellen.html)
+* [Crytek's Sponza](http://www.crytek.com/cryengine/cryengine3/downloads)
 * [Disney Data Sets](https://www.disneyanimation.com/technology/datasets)
 * [Lighting Challenges](http://www.3drender.com/challenges/)
 * [McGuire Computer Graphics Archive](http://casual-effects.com/data/)
