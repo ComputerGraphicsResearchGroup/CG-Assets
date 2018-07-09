@@ -41,4 +41,5 @@ Computer Graphics assets.
 * [Mitsuba](https://www.mitsuba-renderer.org/download.html)
 * [pbrt-v2](http://www.pbrt.org/scenes-v2.html)
 * [pbrt-v3](http://www.pbrt.org/scenes-v3.html)
+* [Pestana's Sponza](http://www.alexandre-pestana.com/pbr-textures-sponza/)
 * [TurboSquid](https://www.turbosquid.com)
