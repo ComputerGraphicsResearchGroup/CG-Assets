@@ -14,7 +14,7 @@ Computer Graphics assets.
 * [Luc(Core)Renderer](https://luxcorerender.org)
 * [Maxwell](http://www.nextlimit.com/maxwell/)
 * [Mitsuba](https://www.mitsuba-renderer.org/download.html)
-* [Nori](https://github.com/wjakob/nori)
+* [Nori](https://wjakob.github.io/nori)
 * [OptiX](https://developer.nvidia.com/optix)
 * [OSPRay](https://www.ospray.org)
 * [pbrt-v1](https://github.com/mmp/pbrt-v1)
