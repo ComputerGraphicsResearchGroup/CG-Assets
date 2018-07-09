@@ -45,3 +45,6 @@ Computer Graphics assets.
 * [pbrt-v3](http://www.pbrt.org/scenes-v3.html)
 * [Pestana's Sponza](http://www.alexandre-pestana.com/pbr-textures-sponza/)
 * [TurboSquid](https://www.turbosquid.com)
+
+### Viewers
+* [Javascript Extended-Range Image (JERI)](https://jeri.io)
