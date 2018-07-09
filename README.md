@@ -10,6 +10,7 @@ Computer Graphics assets.
 * [Cycles](https://docs.blender.org/manual/en/dev/render/cycles/index.html)
 * [Embree](https://embree.github.io/index.html)
 * [Falcor](https://developer.nvidia.com/falcor)
+* [The G3D Innovation Engine](https://casual-effects.com/g3d/www/index.html)
 * [Luc(Core)Renderer](https://luxcorerender.org)
 * [Maxwell](http://www.nextlimit.com/maxwell/)
 * [Mitsuba](https://www.mitsuba-renderer.org/download.html)
@@ -22,6 +23,10 @@ Computer Graphics assets.
 * [Radiance](http://radsite.lbl.gov/radiance/)
 * [RenderPark](http://graphics.cs.kuleuven.be/renderpark/)
 * [Tungsten](https://github.com/tunabrain/tungsten)
+
+### Rendering Framework
+* [bgfx](https://github.com/bkaradzic/bgfx)
+* [The Forge](https://github.com/ConfettiFX/The-Forge)
 
 ### Scenes
 * [Benedikt Bitterli: Rendering Resources](https://benedikt-bitterli.me/resources/)
