@@ -24,7 +24,7 @@ Computer Graphics assets.
 * [RenderPark](http://graphics.cs.kuleuven.be/renderpark/)
 * [Tungsten](https://github.com/tunabrain/tungsten)
 
-### Rendering Framework
+### Rendering Frameworks
 * [bgfx](https://github.com/bkaradzic/bgfx)
 * [The Forge](https://github.com/ConfettiFX/The-Forge)
 
