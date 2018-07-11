@@ -6,7 +6,7 @@ Computer Graphics assets.
 * [Journal of Graphics Tools](https://github.com/erich666/jgt-code)
 
 ### Cross-Platform Rendering Frameworks
-* [bgfx](https://github.com/bkaradzic/bgfx)
+* [bgfx](https://bkaradzic.github.io/bgfx/overview.html)
 * [The Forge](https://github.com/ConfettiFX/The-Forge)
 
 ### Renderers
