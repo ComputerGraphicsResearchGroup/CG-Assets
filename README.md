@@ -23,7 +23,7 @@ Computer Graphics assets.
 * [OSPRay](https://www.ospray.org)
 * [pbrt-v1](https://github.com/mmp/pbrt-v1)
 * [pbrt-v2](https://github.com/mmp/pbrt-v2)
-* [pbrt-v3](https://github.com/mmp/pbrt-v3)
+* [pbrt-v3](https://github.com/mmp/pbrt-v3) [[explanation](http://www.pbr-book.org/)]
 * [POV-Ray](http://www.povray.org)
 * [Radiance](http://radsite.lbl.gov/radiance/)
 * [RenderPark](http://graphics.cs.kuleuven.be/renderpark/)
