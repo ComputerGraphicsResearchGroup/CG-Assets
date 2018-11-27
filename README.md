@@ -27,6 +27,7 @@ Computer Graphics assets.
 * [POV-Ray](http://www.povray.org)
 * [Radiance](http://radsite.lbl.gov/radiance/)
 * [RenderPark](http://graphics.cs.kuleuven.be/renderpark/)
+* [Tantalum](https://github.com/tunabrain/tantalum)
 * [Tungsten](https://github.com/tunabrain/tungsten)
 
 ### Scenes
