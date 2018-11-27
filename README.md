@@ -44,6 +44,7 @@ Computer Graphics assets.
 * [pbrt-v2](http://www.pbrt.org/scenes-v2.html)
 * [pbrt-v3](http://www.pbrt.org/scenes-v3.html)
 * [Pestana's Sponza](http://www.alexandre-pestana.com/pbr-textures-sponza/)
+* [Serhii Rieznik: Ray Tracing References](https://github.com/sergeyreznik/raytracing-references)
 * [TurboSquid](https://www.turbosquid.com)
 
 ### Viewers
